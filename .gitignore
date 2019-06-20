@@ -1,0 +1,13 @@
+client/node_modules
+seed
+seed.json
+data.json
+config.json
+*.dylib
+*.so
+*.bak
+vendor
+test
+.lock
+.idea
+buildimage/build-seed
